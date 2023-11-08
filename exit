@@ -1,0 +1,2007 @@
+[33mcommit 8324e55057d784d16d2293345e33d3153c447fcd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: anglorcas <anglorcas@alum.us.es>
+Date:   Thu Oct 26 11:39:23 2023 +0200
+
+    Updated repository with local content
+
+[33mcommit 9747f32e1df49fdba9235650b4bc43ab9dbe3add[m[33m ([m[1;31morigin/test_3[m[33m, [m[1;31morigin/test_2[m[33m, [m[1;31morigin/test_1[m[33m)[m
+Merge: 37e1a0e c2c4411
+Author: Miguel Patón Gutiérrez <migpatgut@alum.us.es>
+Date:   Sun Dec 18 20:32:31 2022 +0100
+
+    Merge pull request #80 from decide-update-4-1/develop
+    
+    docs: corrección menor en README.md
+
+[33mcommit c2c4411021fd2ca2eb437c577de509e68720cd2f[m
+Author: Miguel Patón Gutiérrez <migpatgut@alum.us.es>
+Date:   Sun Dec 18 20:23:26 2022 +0100
+
+    docs: corrección menor en README.md
+
+[33mcommit 37e1a0ec34b3231af2dca6b9ca55df07c6dec884[m
+Merge: ef1a40a 7434d7b
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 19:30:19 2022 +0100
+
+    Merge pull request #79 from decide-update-4-1/develop
+    
+    Develop
+
+[33mcommit 7434d7bfe5d6e6757f23a86c9540a6a664522d46[m
+Merge: b3bef6b ba86416
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 19:21:23 2022 +0100
+
+    Merge pull request #78 from decide-update-4-1/workbranch-albtolmay
+    
+    conf: Limpiando workflow
+
+[33mcommit ba8641666a1edf8fd1f727164d05bec52ee788f5[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 19:20:29 2022 +0100
+
+    conf: Limpiando workflow
+    
+    Se elimina una funcionalidad en desarrollo
+
+[33mcommit ef1a40a3d59306ecb615d773e96e5aa83c24f455[m
+Merge: 3415e5e b3bef6b
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 19:18:44 2022 +0100
+
+    Merge pull request #77 from decide-update-4-1/develop
+    
+    Develop
+
+[33mcommit b3bef6ba876c605a461df5ee31e5cb6e51b732f4[m
+Merge: ca01211 f99571f
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 19:17:03 2022 +0100
+
+    Merge pull request #76 from decide-update-4-1/workbranch-albtolmay
+    
+    Workbranch albtolmay
+
+[33mcommit f99571fbc5ab4323728cb2a081d8665109f25e47[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 19:16:32 2022 +0100
+
+    conf: Configurando docker
+    
+    Se cambia la rama a master
+
+[33mcommit 8e39f4638ff26dd08ef2f42f2f0e404cbcbe14f3[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 19:15:56 2022 +0100
+
+    conf: Configurando workflow master
+    
+    Se añade la rama master al workflow.
+
+[33mcommit 3415e5ede9f58339fa077b50336a51fc1be6be39[m
+Merge: 0e05143 ca01211
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 19:08:26 2022 +0100
+
+    Merge pull request #75 from decide-update-4-1/develop
+    
+    Develop
+
+[33mcommit ca01211f5fab4fb0a3160fe130f57da72af82ac0[m
+Merge: cbecbca b4c541d
+Author: Miguel Patón Gutiérrez <migpatgut@alum.us.es>
+Date:   Sun Dec 18 18:35:48 2022 +0100
+
+    Merge pull request #74 from decide-update-4-1/workbranch-migpatgut
+    
+    test: selenium Census y Voting
+
+[33mcommit b4c541d09b1dac0efcc9f44e835528a1a6cae0ea[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 18:34:58 2022 +0100
+
+    test: Corrección en los test de Census y Voting
+
+[33mcommit fa87f263e66719910fad4ab6cf48486fbbf1d8c5[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 18:24:57 2022 +0100
+
+    test: Corrección en los test de Census
+
+[33mcommit 1c77e5dd3a04f340b071bfe271245ca77301ecb2[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 18:17:39 2022 +0100
+
+    test: Añadido test selenium para comprobar creación de Question
+
+[33mcommit 7890f5bbb55fa7ba684beced9c1146476533c313[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 18:07:30 2022 +0100
+
+    test: Añadido test selenium para comprobar creación de Census
+
+[33mcommit 2a09b8691a471dffa1cd59042b7828ece21abbc1[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 17:48:34 2022 +0100
+
+    test: Añadido test selenium para comprobar login erróneo
+
+[33mcommit cbecbca0d9cac33f94231871321fc856df94c018[m
+Merge: af92706 1139f0e
+Author: manromcar2 <56127284+manromcar2@users.noreply.github.com>
+Date:   Sun Dec 18 17:33:57 2022 +0100
+
+    Merge pull request #73 from decide-update-4-1/workbranch-manromcar2
+    
+    docs: Completada la sección de testeo #32
+
+[33mcommit 6584d1423c34cef2404f8fbfa41527beea1b3da4[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 17:31:50 2022 +0100
+
+    test: Añadido test selenium para comprobar login correcto
+
+[33mcommit 1139f0ec9996694eaf84f3843711eba684c8bcc2[m
+Author: manuel <manromcar2@alum.us.es>
+Date:   Sun Dec 18 17:30:05 2022 +0100
+
+    docs: Completada la sección de testeo #32
+
+[33mcommit af9270621995229ac4fda10d283807ceff0fcb20[m
+Merge: 57017ae 96e3681
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 17:23:20 2022 +0100
+
+    Merge pull request #72 from decide-update-4-1/workbranch-manalerod2
+    
+    docs: pequeña correción en el readme #32
+
+[33mcommit 96e3681824f31d8b63ebd7f4519244618ca825e5[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 17:21:52 2022 +0100
+
+    docs: pequeña correción en el readme #32
+    
+    cuerpo
+
+[33mcommit 57017aece4c4c35207127c31ce45cbbc3a8bc392[m
+Merge: d4cfdf7 ba11df8
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 17:14:47 2022 +0100
+
+    Merge pull request #71 from decide-update-4-1/workbranch-manalerod2
+    
+    docs: actualizacion con test readme #32
+
+[33mcommit ba11df8040f1cfa00af08128b418623de7434ae0[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 17:12:34 2022 +0100
+
+    docs: actualizacion con test readme #32
+    
+    cuerpo
+
+[33mcommit d4cfdf7e3d2767fe4bdf29c8521dd9a952838e3c[m
+Merge: 61516a9 a3a164e
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 17:02:17 2022 +0100
+
+    Merge pull request #70 from decide-update-4-1/workbranch-manalerod2
+    
+    docs: actualizacion diario #33
+
+[33mcommit a3a164e1202976d4dea0592a02251de2b09840d1[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 16:58:56 2022 +0100
+
+    docs: actualizacion diario #33
+    
+    cuerpo
+
+[33mcommit 61516a9c3b2dd7dd2ae4c880babe4586666c7e1c[m
+Merge: cbe0ce5 481c130
+Author: manromcar2 <56127284+manromcar2@users.noreply.github.com>
+Date:   Sun Dec 18 14:54:52 2022 +0100
+
+    Merge pull request #69 from decide-update-4-1/workbranch-manromcar2
+    
+    docs: Agregadas imagenes a guia rapida #32
+
+[33mcommit 481c130c055931c6b299bd94057312ac58d058f1[m
+Author: manuel <manromcar2@alum.us.es>
+Date:   Sun Dec 18 14:50:50 2022 +0100
+
+    docs: Agregadas imagenes a guia rapida #32
+
+[33mcommit cbe0ce5073fac0113ed5b648dee56b186ea46792[m
+Merge: b2a5550 8349949
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 14:43:52 2022 +0100
+
+    Merge pull request #68 from decide-update-4-1/workbranch-manalerod2
+    
+    docs: agregadas imagenes al quickstart del README #32
+
+[33mcommit 8349949efa0aa18ffbdf76f4fba37cb2f2c8844e[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 14:41:17 2022 +0100
+
+    docs: agregadas imagenes al quickstart del README #32
+    
+    cuerpo
+
+[33mcommit 3f7a79af3192dfc2a0cf9822cf0510690fb6d03f[m
+Author: mpg97 <migpatgut@alum.us.es>
+Date:   Sun Dec 18 14:35:18 2022 +0100
+
+    conf: Adición de Selenium en requirements.txt
+
+[33mcommit b2a5550a2c57ab3609c01650776b6979651f07fb[m
+Merge: 67fd6a9 a82fc65
+Author: manromcar2 <56127284+manromcar2@users.noreply.github.com>
+Date:   Sun Dec 18 13:21:47 2022 +0100
+
+    Merge pull request #67 from decide-update-4-1/workbranch-manromcar2
+    
+    docs: Actualizada la guia rapida de readme #32
+
+[33mcommit a82fc659da637dedab2bf8688e961e94b5bb4614[m
+Author: manuel <manromcar2@alum.us.es>
+Date:   Sun Dec 18 13:14:11 2022 +0100
+
+    docs: Actualizada la guia rapida de readme #32
+
+[33mcommit 67fd6a9e5d17431880bba8d5312157ef99f50bc6[m
+Merge: dfb7af8 1fcf2ba
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 12:57:36 2022 +0100
+
+    Merge pull request #66 from decide-update-4-1/workbranch-manalerod2
+    
+    docs: añadida guia rapida en README #32
+
+[33mcommit 1fcf2bae669c9f9c393a0fac2773547961b465df[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 12:55:56 2022 +0100
+
+    docs: añadida guia rapida en README #32
+    
+    cuerpo
+
+[33mcommit dfb7af8737b722390d8e88d61571bba1aa9e8ee1[m
+Merge: 95fa20d 6dac83e
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 12:55:11 2022 +0100
+
+    Merge pull request #65 from decide-update-4-1/workbranch-manalerod2
+    
+    fix: corregido mensaje de confirmación en el booth #31
+
+[33mcommit 6dac83e160e78181237a498553233c7e2be7c840[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 12:51:13 2022 +0100
+
+    fix: corregido mensaje de confirmación en el booth #31
+    
+    cuerpo
+
+[33mcommit 95fa20dafebd523dd983083dd49c045e29bad38b[m
+Merge: be01777 1784fa4
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 12:23:38 2022 +0100
+
+    Merge pull request #64 from decide-update-4-1/workbranch-borvercas
+    
+    Workbranch borvercas
+
+[33mcommit 1784fa45635eb5008870ad399b0382a846ed8080[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 11:44:29 2022 +0100
+
+    fix: Cambiado respuesta #60
+    
+    Se cambia como montar el objeto para solucionar el problema
+
+[33mcommit 83b777cb8497feb9105ce37069f69ea6d1cf7ac3[m
+Merge: 48590f0 be01777
+Author: Miguel Patón Gutiérrez <migpatgut@alum.us.es>
+Date:   Sun Dec 18 10:27:44 2022 +0100
+
+    Merge pull request #63 from decide-update-4-1/develop
+    
+    Actualización de rama
+
+[33mcommit 658f28f54691f375c2227181c9437feca42757c0[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 10:21:53 2022 +0100
+
+    fix: Corrección #60
+    
+    Se modifica el obtener un valor por key de un diccionario
+
+[33mcommit be017773d4d78b2e11c6a199a6afe1cc773f9ac5[m
+Merge: 6da8aeb d3bfb08
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sun Dec 18 10:20:59 2022 +0100
+
+    Merge pull request #62 from decide-update-4-1/workbranch-manalerod2
+    
+    docs: Actualizado el diario de equipo #33
+
+[33mcommit 6da8aeb9fa843a18d9dbd02ecc2a93b01cb3d33d[m
+Merge: 1a7f4c8 286e83a
+Author: manromcar2 <56127284+manromcar2@users.noreply.github.com>
+Date:   Sun Dec 18 10:20:09 2022 +0100
+
+    Merge pull request #61 from decide-update-4-1/workbranch-manromcar2
+    
+    Workbranch manromcar2
+
+[33mcommit d3bfb08482a25c3ea5d803f9b443a997660d82bd[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sun Dec 18 10:19:43 2022 +0100
+
+    docs: Actualizado el diario de equipo #33
+    
+    cuerpo
+
+[33mcommit 286e83a2597412e916b55a5dab215ec152a486dc[m
+Author: manuel <manromcar2@alum.us.es>
+Date:   Sun Dec 18 10:11:45 2022 +0100
+
+    docs: Inserción de apartado de versiones #32
+
+[33mcommit 164730be8d0346f224f2014f768bc3bb130f241b[m
+Merge: 4d6f28d d78f2f7
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 09:51:00 2022 +0100
+
+    Merge branch 'develop' into workbranch-borvercas
+
+[33mcommit 1a7f4c8c7e38507875ab2d9e648d621c4ef914e5[m
+Merge: d78f2f7 4d6f28d
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 18 09:47:56 2022 +0100
+
+    Merge pull request #59 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Configurado url docker #51
+
+[33mcommit 4d6f28d94f7409d3e421f2ba23519d1b70a1ccc6[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 18 09:47:09 2022 +0100
+
+    conf: Configurado url docker #51
+    
+    Se añade el host de docker a los orígenes confiables
+
+[33mcommit d268196f73725e444396470502fc38f380133b5c[m
+Author: manuel <manromcar2@alum.us.es>
+Date:   Sun Dec 18 00:58:03 2022 +0100
+
+    Test: Creado test de mal direccionamiento en booth #30
+
+[33mcommit d78f2f7b3d2a2fd970f7fdf133f67c45c951a8f3[m
+Merge: ceef1a1 7fbc6c4
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sat Dec 17 21:28:10 2022 +0100
+
+    Merge pull request #58 from decide-update-4-1/workbranch-manalerod2
+    
+    Workbranch manalerod2
+
+[33mcommit 7fbc6c4d01802d26cce774c2b709b4959815c670[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sat Dec 17 21:24:38 2022 +0100
+
+    docs: añadido el diario de equipo actualizado #33
+    
+    cuerpo
+
+[33mcommit 9042e51f34f068bb8cad9ad5dbec25cd336a5a52[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sat Dec 17 21:19:55 2022 +0100
+
+    fix: corregido el error de la corrección en el booth #56
+    
+    cuerpo
+
+[33mcommit ceef1a1b9b53e42567781c87ad37393faa344ba3[m
+Merge: 51c4dca dfac83d
+Author: manromcar2 <56127284+manromcar2@users.noreply.github.com>
+Date:   Sat Dec 17 21:02:45 2022 +0100
+
+    Merge pull request #57 from decide-update-4-1/workbranch-manromcar2
+    
+    Fix: Modificado para eliminacion automatica de ventanas de error #56
+
+[33mcommit 51c4dca3c9a3ccdb7cd672ab357da3a5397f2cec[m
+Merge: 06b28e7 4794f61
+Author: Manuel Alés Rodríguez <56034097+ManuelAles@users.noreply.github.com>
+Date:   Sat Dec 17 20:55:56 2022 +0100
+
+    Merge pull request #55 from decide-update-4-1/workbranch-manalerod2
+    
+    doc: añadido diario de equipo en carpeta doc #33
+
+[33mcommit dfac83d4f4d10257396758877ea11b91126fa914[m
+Author: manuel <manromcar2@alum.us.es>
+Date:   Sat Dec 17 20:53:42 2022 +0100
+
+    Fix: Modificado para eliminacion automatica de ventanas de error #56
+    
+    Se ha modificado para que cuando se haga la accion correctamente se elimine la ventana de error
+
+[33mcommit 4794f61e5d48494e6ee65b6f06b0cc6e6a13a704[m
+Author: Manuel Ales <manalerod@alum.us.es>
+Date:   Sat Dec 17 20:24:39 2022 +0100
+
+    doc: añadido diario de equipo en carpeta doc #33
+    
+    cuerpo
+
+[33mcommit 06b28e7076e92bde90636e1e3f4918a1fd10a85e[m
+Merge: 6a2f955 530faeb
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sat Dec 17 20:13:27 2022 +0100
+
+    Merge pull request #54 from decide-update-4-1/workbranch-adrferfer
+    
+    fix: corregido README.md carga inicial de datos #32
+
+[33mcommit 530faeb797353f89d4a285959f65a2162460aae4[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sat Dec 17 20:11:14 2022 +0100
+
+    fix: corregido README.md carga inicial de datos #id
+    
+    Corregido el número de usuarios definidos en la carga inicial de datos.
+
+[33mcommit 6a2f955f4f96b70e1260348a817285a210c58fe5[m
+Merge: 7ab6815 46a6abd
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sat Dec 17 20:06:47 2022 +0100
+
+    Merge pull request #53 from decide-update-4-1/workbranch-adrferfer
+    
+    docs: ampliada información README.md carga inicial datos #32
+
+[33mcommit 46a6abd1e32d955ffac6abf77edc32714cc268bb[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sat Dec 17 20:02:24 2022 +0100
+
+    docs: ampliada información README.md carga inicial datos #32
+    
+    Se ha añadido información sobre las credenciales de los usuarios creados en el populate.json y los tipos de votaciones.
+
+[33mcommit 7ab6815fedc69ffb586c05e6ca15182d08a002eb[m
+Merge: 031400d 939faff
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sat Dec 17 19:40:30 2022 +0100
+
+    Merge pull request #52 from decide-update-4-1/workbranch-adrferfer
+    
+    docs: añadidas en Readme.md carga inicial de datos  #32
+
+[33mcommit 939fafff323a0dc3e7efe702bb1e4190dbd1f954[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sat Dec 17 19:35:16 2022 +0100
+
+    docs: añadidas en Readme.md carga inicial de datos  #32
+    
+    Se han añadido las pautas necesarias para cargar datos iniciales a nuestro proyecto, así como la fuente sobre la que nos hemos basado para ello.
+
+[33mcommit 031400df3887706517abd811c359d591f2d545a9[m
+Merge: 48590f0 652bb70
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sat Dec 17 12:52:41 2022 +0100
+
+    Merge pull request #50 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Configurado docker #49
+
+[33mcommit 652bb7091eb59eca5a5623df3762eabc29a05c32[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sat Dec 17 12:50:47 2022 +0100
+
+    conf: Configurado docker #49
+    
+    Se actualizan las versiones de postgres y python. Se apunta a nuestro repositorio
+
+[33mcommit 48590f03c430eb2817d8aea124b666d39df29ec0[m
+Merge: e463f9c beaab0f
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Mon Dec 5 19:19:09 2022 +0100
+
+    Merge pull request #48 from decide-update-4-1/workbranch-adrferfer
+    
+    feat: Añadida más casuística al populate inicial #28
+
+[33mcommit beaab0f5f6e6a9173b216976761bc2dfd62f1b07[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Mon Dec 5 19:14:25 2022 +0100
+
+    feat: Añadida más casuística al populate inicial #28
+    
+    Se han incluido 2 nuevos usuarios, dos nuevas votaciones, una de estas se encuentra creada sin abrir y la otra está abierta, cuyo censo se compone de los 3 usuarios distintos del admin.
+
+[33mcommit 20632821c060cce0c4ba52ff3002d0876f7f3471[m
+Merge: a8b317e e463f9c
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Mon Dec 5 19:07:49 2022 +0100
+
+    Merge branch 'develop' into workbranch-adrferfer
+
+[33mcommit e463f9c228116b708ac2e94539f793dc0d99e7ad[m
+Merge: ada8e62 b71c4e7
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Mon Dec 5 19:06:10 2022 +0100
+
+    Merge pull request #47 from decide-update-4-1/workbranch-albtolmay
+    
+    feat: Creado seeder/populate con datos iniciales #28
+
+[33mcommit b71c4e757c32ab0f9b39bbc8e7f23ad3fe1d10f8[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Mon Dec 5 18:23:51 2022 +0100
+
+    feat: Creado seeder/populate con datos iniciales #28
+    
+    Añadido populate como archivo json con una votación cerrada con dos votaciones de dos usuarios
+
+[33mcommit ada8e629541c2a6ae997a5caa2e26b0b7e73974a[m
+Merge: 0497966 8de2683
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Mon Dec 5 18:22:59 2022 +0100
+
+    Merge pull request #46 from decide-update-4-1/workbranch-albtolmay
+    
+    config: Cambiada ligeramente plantilla de commit #6
+
+[33mcommit 8de26834015f189a2ad7cbac2c21127cdecb665c[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Mon Dec 5 18:20:23 2022 +0100
+
+    config: Cambiada ligeramente plantilla de commit #6
+
+[33mcommit 04979660e9b8e19e9710143ac9e8828ba1912f48[m
+Merge: b752b17 0472469
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 4 09:47:39 2022 +0100
+
+    Merge pull request #44 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Actualización versiones
+
+[33mcommit 0472469ca66ef2b272440dcd75455a8391206e6e[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 4 09:46:58 2022 +0100
+
+    conf: Actualización versiones
+    
+    Se actualizan las versiones para usar Node.js 16 en el workflow #42
+
+[33mcommit b752b17d1d3721a6989f737b5cbc4a8ff24fb9f8[m
+Merge: 4ae952d 7e40bad
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 4 09:26:29 2022 +0100
+
+    Merge pull request #43 from decide-update-4-1/workbranch-borvercas
+    
+    conf: workflow versiones python
+
+[33mcommit 7e40bad53fe6e9e230c57d7a14485125eb75d0c5[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 4 09:25:37 2022 +0100
+
+    conf: workflow versiones python
+    
+    Se añaden al workflow las versiones 3.8 y 3.9 de python
+
+[33mcommit 4ae952d9275d44fd431bf663986eadfc3349044a[m
+Merge: 4f31976 421b58c
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Dec 4 09:17:49 2022 +0100
+
+    Merge pull request #41 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Configurar codacy
+
+[33mcommit 421b58c9d1d93aae71deb35f34335119b38d75e5[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Dec 4 09:15:26 2022 +0100
+
+    conf: Configurar codacy
+    
+    Configuración de codacy y badged en el README.md #40
+
+[33mcommit 4f31976b820717418de85098ace6bff29dfc495d[m
+Merge: cd8bc5d bb253c6
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Fri Dec 2 14:21:58 2022 +0100
+
+    Merge pull request #39 from decide-update-4-1/workbranch-borvercas
+    
+    fix: Filtrado de tablas
+
+[33mcommit cd8bc5d988e26dee083329f52f9982b19a2fe801[m
+Merge: ab92e36 6d5dcba
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Thu Dec 1 20:48:56 2022 +0100
+
+    Merge pull request #37 from decide-update-4-1/workbranch-albtolmay
+    
+    fix: Arreglado filtrado de votaciones por id para modelo voting #29
+
+[33mcommit 6d5dcba2264e3c991a5c83692e86e5bfb9215cbd[m
+Merge: eb10661 48767e4
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Thu Dec 1 20:45:03 2022 +0100
+
+    Merge branch 'workbranch-albtolmay' of https://github.com/decide-update-4-1/decide-update-4.1 into workbranch-albtolmay
+
+[33mcommit eb106618771f6035e0ea2d0cd921454c5cd81840[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Thu Dec 1 20:38:09 2022 +0100
+
+    fix: Arreglado filtrado de votaciones por id para modelo voting #29
+    
+    El bug se introduce tras la actualización a django 4.1, tal que el filtrado por votaciones por id deja de ser funcional. En este fix se corrige dicho bug.
+
+[33mcommit 48767e42433757729fab6ef7b6f813603f0b2954[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Thu Dec 1 20:38:09 2022 +0100
+
+    fix: Arreglado filtrado de votaciones por id para modelo voting
+    
+    El bug se introduce tras la actualización a django 4.1, tal que el filtrado por votaciones por id deja de ser funcional. En este fix se corrige dicho bug.
+
+[33mcommit a8b317e80e8b2b840e005db042ddcd308158259c[m
+Merge: 7e96b1b e19ab5a
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Thu Dec 1 19:01:14 2022 +0100
+
+    Merge branch 'develop' into workbranch-adrferfer
+
+[33mcommit ab92e36194e9e70fe0f2129376ab8d6a093fcf9b[m
+Merge: d2c0a43 7e96b1b
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Thu Dec 1 18:39:30 2022 +0100
+
+    Merge pull request #36 from decide-update-4-1/workbranch-adrferfer
+    
+    fix: Corregida lógica alertas y estilos en booth
+
+[33mcommit 7e96b1b2e81f3718d8c11e51bfc9dad150b7123e[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Thu Dec 1 18:34:16 2022 +0100
+
+    fix: Corregida lógica alertas y estilos en booth
+
+[33mcommit d2c0a4325e849f565e08bdae417470bca700311e[m
+Merge: 4a6382a 32767d9
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Thu Dec 1 17:40:50 2022 +0100
+
+    Merge pull request #35 from decide-update-4-1/workbranch-adrferfer
+    
+    feat: Cambios estructura votación y alerta
+
+[33mcommit 32767d94071c62ebcd4fa9f6904b51a623db34d0[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Thu Dec 1 17:37:24 2022 +0100
+
+    feat: Cambios estructura votación y alerta
+    
+    Se ha cambiado las condiciones del título de la votación, ahora solo la muestra si el usuario se ha logueado. Añadida alerta de usuario para informar que se debe loguear.
+
+[33mcommit 4a6382a63f5565a207a64c851190c783102b5778[m
+Merge: e19ab5a 45fb7f2
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Wed Nov 30 20:32:30 2022 +0100
+
+    Merge pull request #34 from decide-update-4-1/workbranch-adrferfer
+    
+    feat: Añadido modal, modificado navbar y cambiada estructura general de booth
+
+[33mcommit 45fb7f2f8df23fdb804261dae419cdbc2e0b534d[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Wed Nov 30 20:26:32 2022 +0100
+
+    feat: Añadido modal, modificado navbar y cambiada estructura general de booth
+    
+    Para la vista de booth, se ha añadido modal de registro y se han modificado las condiciones generales de botones de login y logout dentro del navbar, así como una reestructuración general del cuerpo.
+
+[33mcommit bb253c6c59d9f4703f715e454d7f18e1325b7487[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Wed Nov 30 10:09:14 2022 +0100
+
+    fix: Filtrado de tablas
+    
+    Se modifica el filtrado de tablas a la nueva versión Django 4.1 #38
+
+[33mcommit e19ab5a8ae0da7aff08723b4fc52fea454e3af56[m
+Merge: b1803aa 320d0d2
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Nov 27 13:00:45 2022 +0100
+
+    Merge pull request #27 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Subida versión postgres
+
+[33mcommit 320d0d210a5801ea9601ed5654c2ba253bb81354[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Nov 27 13:00:20 2022 +0100
+
+    conf: Subida versión postgres
+    
+    Se sube la versión del postgres por error en integración continua #24
+
+[33mcommit b1803aa06dd328fa7933a91f565b204ccb68f973[m
+Merge: 9cb06bc 63fe684
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Nov 27 12:56:43 2022 +0100
+
+    Merge pull request #26 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Subida versión postgres
+
+[33mcommit 63fe68463bb6af450977dfad35a5d4a268c558f8[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Nov 27 12:55:41 2022 +0100
+
+    conf: Subida versión postgres
+    
+    Se sube la versión del postgres por error en integración continua
+
+[33mcommit 9cb06bc583eb760a6753b8e42476cc6c6697ee57[m
+Merge: 72ffd38 8decdac
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Nov 27 12:40:48 2022 +0100
+
+    Merge pull request #25 from decide-update-4-1/workbranch-borvercas
+    
+    conf: Github Actions develop
+
+[33mcommit 8decdacd621435fa8cd9731032a031d40a63daba[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Nov 27 12:40:05 2022 +0100
+
+    conf: Github Actions develop
+    
+    Se configura github actions al hacer push sobre la rama de develp #24
+
+[33mcommit 72ffd38a519f5f0b8ae63e3bd2d6cc75bbf83bca[m
+Merge: 1219c40 f1f85fc
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Wed Nov 23 12:22:00 2022 +0100
+
+    Merge pull request #23 from decide-update-4-1/workbranch-borvercas
+    
+    fix: Error filtar voting
+
+[33mcommit f1f85fc7c8f31bac7cafa702df381f7ac7517ebe[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Wed Nov 23 12:20:38 2022 +0100
+
+    fix: Error filtar voting
+    
+    Se soluciona  error al filtrar el voting por el id pasado por url #20
+
+[33mcommit 1219c40d26b9eeef27d556ae3db05bfb74d0fd9c[m
+Merge: a17971a 72bdf89
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Sun Nov 20 13:36:48 2022 +0100
+
+    Merge pull request #19 from decide-update-4-1/workbranch-albtolmay
+    
+    research: Añadida comprobación en views.py de store #18
+
+[33mcommit 72bdf898a79c13c6a54da54edad9279b30f59326[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Sun Nov 20 13:31:43 2022 +0100
+
+    research: Añadida comprobación en views.py de store #18
+    
+    Esta comprobación hace que el test de test_gen_vote_invalid sea correcto. Bug: Se ha comprobado que en el booth tiene bug que siempre accede a la votación más antigua creada.
+
+[33mcommit a17971a99adc9b03b5a4621c52d6269fbb4dd162[m
+Merge: 3c54368 04b6da2
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sun Nov 20 12:03:56 2022 +0100
+
+    Merge pull request #16 from decide-update-4-1/workbranch-adrferfer
+    
+    research: Incluida votación en booth #11
+
+[33mcommit 04b6da2d9b861e91f09007dcad1000f0f47c9cc2[m
+Author: adrferfer <adrferfer@alum.us.es>
+Date:   Sun Nov 20 11:59:08 2022 +0100
+
+    research: Incluida votación en booth #11
+    
+    Se han incluido la alerta de logueo. Login y votación no funcionales.
+
+[33mcommit 3c54368e70d18d62e57d1b7abd370b3e751e7f3a[m
+Merge: 1de2dd9 be64b71
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Sun Nov 20 10:44:34 2022 +0100
+
+    Merge pull request #15 from decide-update-4-1/workbranch-albtolmay
+    
+    research: Cambiada librería bootstrap-vue por bootstrap 5 #11
+
+[33mcommit be64b71fd4a3b64e154ddc3c814d8378829e1876[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Sun Nov 20 10:34:46 2022 +0100
+
+    research: Cambiada librería bootstrap-vue por bootstrap 5 #11
+    
+    Editada la vista de booth usando bootstrap 5 usando vue 3
+
+[33mcommit 1de2dd914f8b0091b15645725b376db81986691c[m
+Merge: 44f16b4 d9b1a6c
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Sun Nov 20 10:30:16 2022 +0100
+
+    Merge pull request #13 from decide-update-4-1/workbranch-borvercas
+    
+    refactor: Adaptación vista
+
+[33mcommit d9b1a6c1e750ffcd155e4a1add387e48b04b2aa0[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Nov 20 10:28:47 2022 +0100
+
+    refactor: Adaptación vista
+    
+    Se actualiza la vista de booth para funcionarl con la versión 3 de Vue.js
+
+[33mcommit 44f16b42fcbc3b4214d4ef875968b33f7804e68d[m
+Merge: 0ee8680 e73140f
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Sat Nov 19 19:09:47 2022 +0100
+
+    Merge pull request #12 from decide-update-4-1/workbranch-borvercas
+    
+    research: Migración Vue.js  #11
+
+[33mcommit e73140f9b4cec73b43a2387b4096b78fc8c122d5[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sat Nov 19 13:06:45 2022 +0100
+
+    research: Migración Vue.js  #11
+    
+    Se modifica la forma de declarar componentes a la nueva versión.
+
+[33mcommit 0ee86803d408291bddd343a92308acb9f9e3a8c5[m
+Merge: d565b30 5155483
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Thu Nov 17 21:07:45 2022 +0100
+
+    Merge pull request #10 from decide-update-4-1/workbranch-albtolmay
+    
+    conf: Cambiada ligeramente la plantilla de commits #6
+
+[33mcommit d565b306b89367bcc4cb19c778c30b3ca84eb4a0[m
+Merge: c2d9dc3 8cf8656
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Thu Nov 17 21:05:32 2022 +0100
+
+    Merge pull request #9 from decide-update-4-1/workbranch-albtolmay
+    
+    fix: Cambiado auto field a models.Autofield
+
+[33mcommit 5155483e583489c404b70d222c700d4c62209747[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Thu Nov 17 21:01:55 2022 +0100
+
+    conf: Cambiada ligeramente la plantilla de commits #6
+
+[33mcommit 8cf86563c5a3b95e14a8ebab743f1cfb79e4af10[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Thu Nov 17 20:58:22 2022 +0100
+
+    fix: Cambiado auto field a models.Autofield
+    
+    Para evitar los warning al hacer las migraciones, se especifica el auto field por defecto a django.db.models.AutoField para cada apps.py
+
+[33mcommit 40c1a6a72d64d77b4f34b1a5ead0041f253fd4f3[m
+Author: Alberto Toledo <albtolmay@alum.us.es>
+Date:   Thu Nov 17 21:45:37 2022 +0100
+
+    conf: Creada plantilla para commits #6
+
+[33mcommit c2d9dc30515aec5db325c592a297832b599ca957[m
+Merge: b475ee6 40c1a6a
+Author: Alberto Toledo <a.toledomayorga@gmail.com>
+Date:   Thu Nov 17 20:53:19 2022 +0100
+
+    Merge pull request #7 from decide-update-4-1/workbranch-albtolmay
+    
+    conf: Creada plantilla para commits #6
+
+[33mcommit b475ee684c2361ee263de4f463ecb8b4808b1e87[m
+Merge: 0e05143 ea23f20
+Author: Borja Vera Casal <73056361+borvercas@users.noreply.github.com>
+Date:   Tue Nov 15 18:21:19 2022 +0100
+
+    Merge pull request #5 from decide-update-4-1/workbranch-borvercas
+    
+    Workbranch borvercas
+
+[33mcommit ea23f207c241d7631ea79ede0a1a931d158ddc7e[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Tue Nov 15 18:19:33 2022 +0100
+
+    fix: Corregido importación models
+    
+    Se soluciona el error al importar el models por la migración
+
+[33mcommit 87dcfdf5a375eb3415940a718287bb1e7b6eb216[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Tue Nov 15 18:17:31 2022 +0100
+
+    conf: Añadidas versiones complatibles
+    
+    Se actualizan las versiones compatibles con Django 4.1
+
+[33mcommit 0e0514338e7a3a7744c5403bb881935555572ad1[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Oct 9 13:55:26 2022 +0200
+
+    settings github actions
+
+[33mcommit 7d5c9534469724cf2fc784095219e5865b466fd0[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Oct 9 13:43:31 2022 +0200
+
+    versión psycopg2 actualizada
+
+[33mcommit ded32604c869a9a8e7f29db6b02d8af7fa8c6cf3[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Oct 9 13:14:27 2022 +0200
+
+    practica 3
+
+[33mcommit 83d56d268b25047cdaf99757326343ae2f6e7fdf[m
+Author: Borja Vera Casal <borvercas@alum.us.es>
+Date:   Sun Oct 9 13:08:46 2022 +0200
+
+    un cambio de prueba
+
+[33mcommit 8126f7e16c1b3856471ccc9e664f4d8c01a491b7[m
+Merge: a27bd66 7255015
+Author: José A <jagalindo@us.es>
+Date:   Tue Oct 27 16:48:33 2020 +0100
+
+    Merge pull request #20 from AndresJRamirez/patch-1
+    
+    Update: locustfile to Locust v1.3.1
+
+[33mcommit 7255015b163dac5a9931d86adc44d69f94fbdcb9[m
+Author: AndresJRamirez <prof.andresjimenez@gmail.com>
+Date:   Tue Oct 27 16:43:49 2020 +0100
+
+    Update: locustfile to Locust v1.3.1
+    
+    Adapt the classes and attributes to work with Locust v1.3.1
+
+[33mcommit a27bd663106642bd8ed0d20e1e7f5296d6a49243[m
+Author: benavidescuevas <benavidescuevas@users.noreply.github.com>
+Date:   Tue Oct 8 10:05:39 2019 +0200
+
+    Update for 2029/2020
+
+[33mcommit fc64ea57adefeb0d19dd3ceae887db49194d0d28[m
+Merge: 213dc89 2b873b4
+Author: benavidescuevas <benavidescuevas@users.noreply.github.com>
+Date:   Thu Sep 19 14:29:46 2019 +0200
+
+    Merge pull request #12 from wadobo/master
+    
+    Decide 2019/2020 merge
+
+[33mcommit 2b873b495672c3218e433255d99a2f7213a9cb5d[m
+Author: Daniel García Moreno <dani@danigm.net>
+Date:   Mon Apr 8 11:43:11 2019 +0200
+
+    Fix booth voting with big keys
+
+[33mcommit 1f93d7d05c5919bb478128ef4c137134bcd0560b[m
+Author: Daniel García Moreno <dani@danigm.net>
+Date:   Wed Mar 27 10:51:11 2019 +0100
+
+    Migrate visualizer frontend to vuejs with bootstrap
+
+[33mcommit c0d66c7b5a201b269ec2e1bb3a48dac555b50181[m
+Merge: 7d5409f 71894e2
+Author: danigm <dani@danigm.net>
+Date:   Fri Mar 15 12:47:44 2019 +0100
+
+    Merge pull request #44 from wadobo/fix-docker-jsonnet
+    
+    Change config.jsonnet like optional
+
+[33mcommit 71894e20b776855ae74b925ce4d409d053be2199[m
+Author: danigm <dani@danigm.net>
+Date:   Fri Mar 15 12:46:30 2019 +0100
+
+    Update decide/decide/settings.py
+    
+    Co-Authored-By: Virako <virako.9@gmail.com>
+
+[33mcommit 75cf8248013140ccaddcfe8041005edd53f075b4[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Mar 15 12:25:00 2019 +0100
+
+    Change config.jsonnet like optional
+    
+    You can activate config.jsonnet copying the file config.jsonnet.example in the same directory with the name config.jsonnet
+
+[33mcommit 7d5409f26c6789f0338bbe6a4bf4d2589647f2af[m
+Merge: 2123f7f 377842d
+Author: danigm <dani@danigm.net>
+Date:   Fri Mar 15 12:22:57 2019 +0100
+
+    Merge pull request #43 from wadobo/booth-with-vuejs-and-bootstrap
+    
+    Migrate booth frontend to vuejs with bootstrap
+
+[33mcommit 377842d1d3e6efa55ee8246f156f8a453104f9e1[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Mar 15 12:15:50 2019 +0100
+
+    Migrate booth frontend to vuejs with bootstrap
+
+[33mcommit 2123f7f6ccc0bc901dd78e4fd5ee3cb8201cd701[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Feb 22 17:54:23 2019 +0100
+
+    Update dist in travisci for avoid dependency problem
+
+[33mcommit 2109b65215d1456b02076f87c9d88f7dd769e2c2[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Feb 22 17:29:00 2019 +0100
+
+    Change travisci configuration
+
+[33mcommit f55c90cc8cfe9b299cb14946dc879ebfeed2f846[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Feb 22 17:26:16 2019 +0100
+
+    Change travisci configuration
+
+[33mcommit 7fedb4fea619d3123d592ad322889adbf19dbe51[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Feb 22 17:23:19 2019 +0100
+
+    Add g++ dependencies on travisci configuration
+
+[33mcommit b2c7e25942e655ed365a3411707da07996e0f8c6[m
+Author: Daniel García Moreno <dani@danigm.net>
+Date:   Mon Feb 18 19:50:48 2019 +0100
+
+    Use jsonnet file for server configuration
+    
+    The jsonnet is a templating language that let us define a json output
+    with a simple language. It adds variables, conditionals and other useful
+    tools to extend the json format.
+    
+    https://jsonnet.org/
+    
+    We can use this for the server configuration so we don't need to write
+    python code and we use the jsonnet format instead.
+
+[33mcommit ec87e1bc2d861285cc371667da8642faa38874de[m
+Merge: c9df414 6ac38bd
+Author: danigm <dani@danigm.net>
+Date:   Mon Feb 18 08:45:32 2019 +0100
+
+    Merge pull request #41 from wadobo/api-version
+    
+    Add api versioning by query params
+
+[33mcommit 6ac38bd67eee92227abc1d582c22767cb98fc788[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Sun Feb 17 11:15:55 2019 +0100
+
+    Add api versioning by query params
+    
+    Add v1 like default version
+
+[33mcommit c9df414f2a3c17058ccd7eb5cc5a221122a539ad[m
+Author: Daniel García Moreno <dani@danigm.net>
+Date:   Wed Jan 23 13:14:47 2019 +0100
+
+    Add gateway doc to the README
+
+[33mcommit 3f36b7cbe94d275e8e4afeac7b7f7a3d30e56074[m
+Author: Daniel García Moreno <dani@danigm.net>
+Date:   Wed Jan 23 12:57:09 2019 +0100
+
+    Vagrant documentation in README.md
+
+[33mcommit 5731f42d8553da5ecbe7a4c152a9e146f69f4927[m
+Merge: 5e6fcc2 c891f9c
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Jan 23 12:30:29 2019 +0100
+
+    Merge pull request #37 from wadobo/loadtest
+    
+    Added locust configuration for exec two different stress test.
+
+[33mcommit c891f9c50c361166884c136e45bca3e2743e676f[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Jan 16 09:49:01 2019 +0100
+
+    Fix code style
+
+[33mcommit 5e6fcc2f0fc1f9ca637bf6729ffbf91b6ee77d70[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Thu Jan 10 15:00:29 2019 +0100
+
+    Vagrant+ansible deploy script files
+
+[33mcommit 9d546ecad0beb25e628a3a7fb0ac09cba025b90f[m
+Merge: 33c44cf ff5efe9
+Author: danigm <danigm@wadobo.com>
+Date:   Mon Dec 24 11:15:44 2018 +0100
+
+    Merge pull request #36 from wadobo/travisci
+    
+    TravisCI integration: test and coverage
+
+[33mcommit ff5efe946518fc047796daf3ff72622158e92bc3[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Dec 20 00:00:21 2018 +0100
+
+    Added travisci, codacy quality and codacy coverage badges.
+
+[33mcommit 375766c4848c0de4d221f0d20fb549bf77f10fbd[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 23:49:56 2018 +0100
+
+    Added locust configuration for exec two different estrés test.
+    
+    Created register API call for generate fastly several new users
+
+[33mcommit de18f04f62848fe590f378db7e24c51928018e5c[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 12:22:27 2018 +0100
+
+    Fixed malformed travis.yml
+
+[33mcommit a5a4011c78c354350bfdc6fb9685b4821c3cbe36[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 12:19:59 2018 +0100
+
+    Force 9.4 postgresql version in travisci
+
+[33mcommit 60aa206b948464db8be2de0b5fb7f2e144837223[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 12:09:27 2018 +0100
+
+    Added coverage support: django-nose and coverage like dependencies and using codacy for report coverage.
+
+[33mcommit 53011179618efdf973f898bb72aef5f68539cb36[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 11:53:20 2018 +0100
+
+    Update default database for using postgresql instead sqlite
+
+[33mcommit f76102111bf44509ca64dcc36fe537216cb2325a[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 11:40:55 2018 +0100
+
+    Enter in correct directory for exec test.
+
+[33mcommit d8760ce9a85e76815f018ab8794903bfb649b45a[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 11:38:27 2018 +0100
+
+    Moved .travis.yml file to main folder
+
+[33mcommit b44ebe8034b121b011b89ef3a7a48398cf108359[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Wed Dec 19 11:13:15 2018 +0100
+
+    Added travisci configuration for exec test
+
+[33mcommit 33c44cf81b71386e1aedbe9dc7d9d41123514dbc[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Tue Dec 18 10:34:26 2018 +0100
+
+    gateway app to redirect queries
+    
+    We've the base.mods module to redirect all queries to submodules using
+    the configuration APIs, but for the voting booth we don't use that, we
+    were using the final endpoint full url.
+    
+    To avoid CORS and url problems, this patch adds a new django app that
+    provides a gateway url to proxy all requests to the corresponding
+    module, so the request will go to the gateway in the same server and
+    then this gateway will make the real request to the final servicer and
+    return the response.
+    
+    This simplifies the interface to vote and will allow us to create
+    external tools that doesn't need to know the full server infrastructure,
+    only the gateway location.
+
+[33mcommit 6be74edf09ffcb792922347b023201f5be74192d[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Dec 3 09:10:35 2018 +0100
+
+    doc: Verificatum spec pdf
+
+[33mcommit 213dc8950b1f8c49829935900557a8a586a25722[m
+Merge: d408328 53c2bf1
+Author: danigm <danigm@wadobo.com>
+Date:   Tue Oct 2 16:03:24 2018 +0200
+
+    Merge pull request #34 from wadobo/cryptodome
+    
+    Cryptodome
+
+[33mcommit 53c2bf1b6d252906577a597f0e69c88fbca6acc3[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Tue Oct 2 07:34:41 2018 +0200
+
+    Fixed test: unsupported operand between int and Integer
+
+[33mcommit 0a89eb414718d9b9e216f2d5f2001990918cbb3e[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Oct 1 19:29:29 2018 +0200
+
+    fix crypto with cryptodome
+
+[33mcommit 2a49b0b3c3ab9eca401095a91fb656c0df6302be[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Sep 21 18:22:40 2018 +0200
+
+    mixnet: key bits configuable in settings
+
+[33mcommit 54e9c87c34c94171738f00637004b341e105c99b[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Sep 21 17:18:05 2018 +0200
+
+    mixnet: Store key as textfield to avoid db problems
+    
+    IntegerField isn't valid for big keys so we need to store as textfield
+    in the database and convert to int in the python code.
+
+[33mcommit 5e867e4c90977d52657666938f67f22f4c727ecb[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Sep 21 12:50:19 2018 +0200
+
+    mixnet: Use pycryptodome instead of pycrypto
+    
+    pycrypto is unmaintained and is unsecure:
+    https://github.com/dlitz/pycrypto/issues/253
+    
+    It's better to use the modern version pycryptodome that's more up to
+    date
+
+[33mcommit d408328d1acc712f1f2abd5b9a0ea7e9c83bd562[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Jun 8 10:56:54 2018 +0200
+
+    docker: network configuration
+
+[33mcommit b087fd4b6cd8e2bdd453700b6d23405ccda01878[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Thu Jun 7 21:00:59 2018 +0200
+
+    Fix web docker image with last python:alpine
+
+[33mcommit 7e721afdd353dcde2ea67670c9227594cad5f71a[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Thu Jun 7 14:34:40 2018 +0200
+
+    docker: settings with host IP for API
+
+[33mcommit 3c790c658e2d296804bf22038ac42fd7f7279001[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Thu Jun 7 14:33:30 2018 +0200
+
+    doc: More issues to do
+
+[33mcommit 41c89a9053ee560e473e0f417b81762041012915[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Jun 6 14:09:21 2018 +0200
+
+    docker: Use the docker port instead devel port
+
+[33mcommit ed8c9fe482ca3b9b3f57c3f0a6f30e57c8dae531[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Jun 6 13:21:49 2018 +0200
+
+    Line to show how to run tests with docker
+
+[33mcommit 62fc1e825cd9c667e5acfb84ab0d194ef1d0340c[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Jun 6 13:15:39 2018 +0200
+
+    docker: post_processed was renamed to postproc
+
+[33mcommit ccf49b548b16a76d4eba89956249587db64668be[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Jun 6 13:04:25 2018 +0200
+
+    rename: Move votinus directory to decide
+
+[33mcommit 9b01eda1bbd85b6cd526b4e19e48d8b1db753474[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Jun 6 12:57:14 2018 +0200
+
+    Big rename to Decide
+
+[33mcommit 545372f67b81c09a7ee3d1fc6b1e09928e575333[m
+Merge: c7d341a 96cb14e
+Author: danigm <danigm@wadobo.com>
+Date:   Tue Jun 5 11:42:05 2018 +0200
+
+    Merge pull request #32 from wadobo/swagger
+    
+    Added swagger extensions for showed docs
+
+[33mcommit 96cb14ef766de28d2f534586e0d9b1cfcbf31648[m
+Merge: 4beae1c c7d341a
+Author: danigm <danigm@wadobo.com>
+Date:   Tue Jun 5 11:41:41 2018 +0200
+
+    Merge branch 'master' into swagger
+
+[33mcommit c7d341a4123676a24817eb84ee4ecb4c2c688cc3[m
+Merge: 7b6dc24 7cb48ce
+Author: danigm <danigm@wadobo.com>
+Date:   Tue Jun 5 11:40:40 2018 +0200
+
+    Merge pull request #33 from wadobo/decoupled-auth-and-key
+    
+    Decoupled Auth and Key from mixnet app
+
+[33mcommit 7cb48ce36693e1452c60bcfde72dc9070449d26b[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Tue Jun 5 10:57:59 2018 +0200
+
+    Decoupled Auth and Key from mixnet app
+    
+    Moved Auth and Key to base because both models are used independetly by mixnet and voting
+
+[33mcommit 4beae1c7817338f3c495ced5420715d1b4ca88bf[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Jun 1 13:41:38 2018 +0200
+
+    Added swagger extensions for showed docs
+    
+    The swagger doc will be in HOST/doc/
+
+[33mcommit 7b6dc248857b7a7c586c338d6161fe3e882f8014[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Fri Apr 13 11:48:15 2018 +0200
+
+    Fixed tests.
+
+[33mcommit bdce33d2b7a5b49b329e4f3bad0635fd6513a68f[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Apr 13 10:26:01 2018 +0200
+
+    store: check the user token with the uid sent
+    
+    In this patch we check if the voter is sending us the real information,
+    we check agains the authentication module to get the real user
+    information passing the authentication token and if the id isn't the
+    same we don't store this vote because is a fraudulent one.
+
+[33mcommit 7aae09379a411259a0c7fffd4fb2091e1d44297a[m
+Merge: 0647b2e 830e679
+Author: danigm <danigm@wadobo.com>
+Date:   Fri Apr 13 10:01:13 2018 +0200
+
+    Merge pull request #30 from wadobo/auth-perms
+    
+    User should be staff for doing some tasks. Closed #19
+
+[33mcommit 830e67989c67f3b63cf89ab8e6f6cb03b0ff79e9[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Apr 13 09:47:55 2018 +0200
+
+    auth: Admin login authentication with auth module
+
+[33mcommit c3359b5d59d7d776bbe225d32abbfab0b4ce6a1a[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Apr 12 12:55:20 2018 +0200
+
+    User should be staff for get list store votes. Created a BaseTest for login easier in all tests.
+
+[33mcommit c0c867ec850fb991256667f0ce971003097af194[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Apr 12 11:47:40 2018 +0200
+
+    User should be staff for defined census with api call.
+
+[33mcommit c0cfa6d2b44ec070e585045576d1eb0e942f3e81[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Apr 12 11:36:05 2018 +0200
+
+    Api calls for update voting with actions: start, stop and tally.
+
+[33mcommit 08723530292a8f8c6d77a495b2fa6244f2de36e4[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Apr 12 10:13:21 2018 +0200
+
+    Added api call for create voting. User should be staff for create voting.
+
+[33mcommit 0647b2e9753e7d0be29bd7afaf53adfda72c810f[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Tue Apr 10 12:51:35 2018 +0200
+
+    Added two images on resources for doc
+
+[33mcommit 2a828955d193fb3a6c29f9603811da1bc5b9efc3[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Tue Apr 10 12:19:12 2018 +0200
+
+    Added images resources for doc
+
+[33mcommit 1062af7b24eeeae050d5add705cf475d898a2204[m
+Merge: 32d6419 cf69f91
+Author: danigm <danigm@wadobo.com>
+Date:   Tue Apr 10 11:10:09 2018 +0200
+
+    Merge pull request #29 from wadobo/visualizer
+    
+    Visualizer
+
+[33mcommit cf69f91e58d4ae5d0901d886d85c506c21c682f6[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Tue Apr 10 11:05:30 2018 +0200
+
+    Added forgot template
+
+[33mcommit ac43d3e5f318c47bf87017fcbad36494cabe3106[m
+Merge: acd652e 32d6419
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Tue Apr 10 09:41:32 2018 +0200
+
+    Merge branch 'master' into visualizer
+
+[33mcommit 32d64194f5f5b449dccc7ad3d8dea6bccb516f7c[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Apr 9 17:36:54 2018 +0200
+
+    Fix postproc in voting tally
+    
+    I've fixed the postproc call in the voting tally and also updated the
+    testvoting django command.
+    
+    I've also copied the testvoting django command to a django test, now
+    we've the mods mocked so we can test this with normal tests and this
+    command is not needed anymore, maybe we should remove in the future
+    because the test is doing basically the same with this patch.
+
+[33mcommit 30f630e9a7a11a9e763b34317400958fbfae2d64[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Apr 9 12:07:40 2018 +0200
+
+    voting: Do the postproc after the tally
+
+[33mcommit b4de9216d4e8730531774999e7ed6e163d10d7c9[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Mon Apr 9 12:02:44 2018 +0200
+
+    Added tally command in voting admin
+
+[33mcommit acd652ef8beec72af5e195f20bc2a92ec53fe6c6[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Mon Apr 9 12:33:22 2018 +0200
+
+    Added minimal visualizer for voting results
+
+[33mcommit c52feade1cf00c44238a0d33ba89ff3b3ee406b1[m
+Merge: 046bc7d 9c4ca1b
+Author: danigm <danigm@wadobo.com>
+Date:   Mon Apr 9 09:21:35 2018 +0200
+
+    Merge pull request #27 from wadobo/check_perms
+    
+    Check permissions when vote
+
+[33mcommit 9c4ca1b5c138371d62b1ad3a6f266964ec08cf8d[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Mon Apr 9 07:29:49 2018 +0200
+
+    Checked started voting when try to vote
+
+[33mcommit bc7a85b3a5809e80d027e5739a96398fd965a092[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Mon Apr 9 00:59:29 2018 +0200
+
+    Checked if voting exists and is open.
+
+[33mcommit 6bd74aa32a8b1a978440d2ac8582c289123573a8[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Sun Apr 8 20:19:38 2018 +0200
+
+    Check permissions when vote. if voters isn't in census, user can't generate vote
+
+[33mcommit 046bc7d795a6bafd16393f34cb74ecdf079b9d65[m
+Merge: 0e6672d ec76aec
+Author: danigm <danigm@wadobo.com>
+Date:   Sun Apr 8 19:48:46 2018 +0200
+
+    Merge pull request #26 from wadobo/census-ng
+    
+    Census: Added census model. Closed #6
+
+[33mcommit ec76aec990ca9582f7da28d0e8cc2091321f28dd[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Sun Apr 8 19:17:12 2018 +0200
+
+    Added census model
+
+[33mcommit 0e6672d1c0e3e57dcb21885f1735d58cdee72eb6[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Apr 4 12:45:08 2018 +0200
+
+    Use mock_query in all tests
+
+[33mcommit a3314c1005a3404d576dfc7eabe3df75f74e8a30[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Apr 4 12:24:47 2018 +0200
+
+    mixnet: Test with multiple auths
+    
+    Using the mock_query we can now test the mixnet chain call. I've to add
+    a new field in the Mixnet model because if we use the same server as two
+    auths we need to differ the position in the chipher chain.
+    
+    So now it's possible to use the same server as multiple authorities,
+    although this doesn't give us more security because we do multiple
+    encryption and decription, but private keys are in the same db so it's
+    the same that using one auth.
+
+[33mcommit de84ff6714787306c8a19bb72a00389718a7e1dd[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Wed Apr 4 10:59:09 2018 +0200
+
+    Hide requests query inside mods.query
+    
+    Instead of use requests directly to call to other modules, I've created
+    a python module with a function that hides the real query. With this
+    module we can mock the query to make multiple calls in tests, and as
+    side effect, the code in each module is clear.
+
+[33mcommit c0aecdc1b25eb63a73cd99a32f27779583547ee7[m
+Merge: 2459cd1 081d969
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Apr 4 08:57:53 2018 +0200
+
+    Merge pull request #24 from wadobo/login
+    
+    Login
+
+[33mcommit 081d96906e55008a706e815969e37275c75bb0fe[m
+Merge: 4dad801 2459cd1
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Apr 4 08:57:41 2018 +0200
+
+    Merge branch 'master' into login
+
+[33mcommit 2459cd1b48072540219b94c61dd2280a9c37afd2[m
+Merge: aa766e6 33ec8a6
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Apr 4 08:54:12 2018 +0200
+
+    Merge pull request #23 from wadobo/auth
+    
+    authentication: Submódulo de autenticación
+
+[33mcommit 33ec8a6b8c1a44b3df5281fed1743c5aac972e99[m
+Merge: d88617b aa766e6
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Apr 4 08:53:55 2018 +0200
+
+    Merge branch 'master' into auth
+
+[33mcommit aa766e6a0d4be8b9a508abbf39aa11b7126c736b[m
+Merge: 415ebc3 8141dd9
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Apr 4 08:52:56 2018 +0200
+
+    Merge pull request #22 from wadobo/booth
+    
+    Booth
+
+[33mcommit 415ebc338b9d88b2cb623acf8986adab33afe278[m
+Merge: 28507e1 80fba7a
+Author: danigm <danigm@wadobo.com>
+Date:   Wed Apr 4 08:52:44 2018 +0200
+
+    Merge pull request #21 from wadobo/voting-view
+    
+    voting: Vista de votacion
+
+[33mcommit d88617b3a09a76ebc14862954c6a7b9a7486c93b[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Mar 15 09:31:49 2018 +0100
+
+    Added some test when login or getuser fail.
+
+[33mcommit 80fba7aaa71d3e712dc159c2daa42d149b4c5577[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Thu Mar 15 09:14:15 2018 +0100
+
+    Added django-filters to INSTALLED_APPS for avoid browser failed when load /voting/
+
+[33mcommit 4dad80143cd5332bef465bba6d2c475244e6549e[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Mar 12 19:01:13 2018 +0100
+
+    booth: Login de usuario
+    
+    Este parche añade el login de usuario y por lo tanto, al emitir un voto
+    lo emite pasandole al store el token y el id de usuario correspondiente.
+    
+    Es responsabilidad del store verificar que ese token es válido,
+    preguntando al submódulo de autenticación y también verificar que el
+    votante está en el censo y que la votación está activa.
+
+[33mcommit 0e148f06bf9bebba3d1274f45c14c36d807e947c[m
+Merge: 8141dd9 d3bddf2
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Mar 12 18:34:20 2018 +0100
+
+    Merge branch 'auth' into login
+
+[33mcommit d3bddf2dcdf4dcae26e2f38b22f06ee1b76444b9[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Mar 12 18:26:31 2018 +0100
+
+    authentication: Vista de logout
+    
+    Esta vista permite hacer logout para destruir el token. Algo realmente
+    útil cuando es un token que se envía por la red.
+
+[33mcommit 5588a14f2a7c217d0d3e8b9536d5a933253e7260[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Mar 12 18:13:45 2018 +0100
+
+    authentication: Submódulo de autenticación
+    
+    Este parche implementa el login usando token authentication de rest
+    framework. Tras el login, el usuario tendrá un token que podrá utilizar
+    para autenticarse contra los diferentes submódulos.
+    
+    Utilizando ese token, los submódulos podrán preguntar si es correcto y
+    si es quien dice ser llamando a la API /getuser/, que para un token dado
+    nos devuelve información de este usuario.
+    
+    Close #5
+
+[33mcommit 8141dd98ce5867a7afb34c6b5fdea34c77ace4ac[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Mar 12 14:39:00 2018 +0100
+
+    booth: Cambina de votación funcional
+    
+    Esta es una primera versión de la cabina de votación. Se muestran las
+    opciones y según la opción elegida, se cifra en cliente y se envía el
+    voto al store.
+    
+    No se manda el id del votante correctamente porque falta la
+    autenticación, pero eso se puede hacer fácilmente pidiendo además del
+    voto el usuario y la contraseña para autenticar antes, haciendo una
+    petición al submódulo de autenticación.
+    
+    Close #3
+
+[33mcommit 3a60e9ab34d7e9a10e0e041d57f4ea578e5b2ca2[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 9 14:19:50 2018 +0100
+
+    voting: Vista de votacion
+    
+    Este parche añade la vista de votación. Por defecto lista todas las
+    votaciones aunque se puede filtrar por id, lo que nos permitirá acceder
+    a la votación desde los demás subsistemas.
+    
+    Esta vista en necesaria para poder implementar la cabina de votación y
+    la visualización de resultados.
+    
+    See #10, #7
+
+[33mcommit 28507e15d275cebbbebf994e1344945b25b8079a[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 2 19:43:10 2018 +0100
+
+    test: Scripts para pruebas de cifrado en js
+
+[33mcommit 5b1969a58d90535a59624433de094b4fad14d188[m
+Merge: 2592a25 42e1981
+Author: Victor Ramirez de la Corte <virako.9@gmail.com>
+Date:   Mon Mar 5 08:27:17 2018 +0100
+
+    Merge pull request #17 from wadobo/voting
+    
+    -- voting: Campos para guardar los votos en claro y el resultado
+    Una vez hecho el recuento es conveniente tener guardado en la votación
+    el resultado final en claro, sin asociar con los votantes. Además
+    también hay que almacenar aquí el resultado después de pasar por el post
+    procesado.
+    
+    -- voting: Recuento implementado
+    Recuento implementado dentro del modelo de Voting. Desde él método
+    `tally` se llama al `store` para obtener los votos cifrados y después
+    estos votos se pasan por la mixnet para mezclar y descifrar. El
+    resultado de la votación se almacena tal cual en el campo `tally` del
+    modelo.
+    
+    He añadido también un comando de django para lanzar con `./manage.py`
+    para probar todo el proceso. No se puede hacer en un test unitario
+    porque hace peticiones al servidor, por lo tanto hay que tener lanzado
+    el servidor con `runserver` antes de lanzar el comando `testvoting`. De
+    momento este comando crea una votación con una sóla autoridad, genera un
+    número aleatorio de votos cifrados y realiza el recuento con las
+    mixnets. El número de votos del recuento ha de coincidir con el número
+    de votos emitidos.
+    
+    -- Añadido soporte y pasos para utilizar postgres como base de datos
+
+[33mcommit 42e198120c47962bae835e523ab55d5e7129f94f[m
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Mon Mar 5 07:57:18 2018 +0100
+
+    Añadido soporte y pasos para utilizar postgres como base de datos
+
+[33mcommit 5c66f9b6729083f6e0df6d6a8340701c7581befd[m
+Merge: 17b3758 2592a25
+Author: Victor Ramirez de la Corte <virako.9@gmail.com>
+Date:   Mon Mar 5 07:36:46 2018 +0100
+
+    Merge branch 'master' into voting
+
+[33mcommit 2592a25f8eed415bfbbc91eb39d5212dbd14e819[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 2 11:54:07 2018 +0100
+
+    postproc: Vista de identidad
+
+[33mcommit c9b9ab0b169da8c2f3364964cd5849249d5fa8ae[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 2 11:32:43 2018 +0100
+
+    Renombrado de app post_processed a postproc
+
+[33mcommit 17b37586f72cddc38c45846c081785a963205614[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 2 13:23:32 2018 +0100
+
+    voting: Recuento implementado
+    
+    Recuento implementado dentro del modelo de Voting. Desde él método
+    `tally` se llama al `store` para obtener los votos cifrados y después
+    estos votos se pasan por la mixnet para mezclar y descifrar. El
+    resultado de la votación se almacena tal cual en el campo `tally` del
+    modelo.
+    
+    He añadido también un comando de django para lanzar con `./manage.py`
+    para probar todo el proceso. No se puede hacer en un test unitario
+    porque hace peticiones al servidor, por lo tanto hay que tener lanzado
+    el servidor con `runserver` antes de lanzar el comando `testvoting`. De
+    momento este comando crea una votación con una sóla autoridad, genera un
+    número aleatorio de votos cifrados y realiza el recuento con las
+    mixnets. El número de votos del recuento ha de coincidir con el número
+    de votos emitidos.
+
+[33mcommit 721c2069598cea430b9d38fc8e326b28af08e311[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 2 12:00:35 2018 +0100
+
+    voting: Campos para guardar los votos en claro y el resultado
+    
+    Una vez hecho el recuento es conveniente tener guardado en la votación
+    el resultado final en claro, sin asociar con los votantes. Además
+    también hay que almacenar aquí el resultado después de pasar por el post
+    procesado.
+
+[33mcommit 89548bf54ea3972dd06548fc7bb716ac5875ed01[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Mar 2 13:28:12 2018 +0100
+
+    store: Arreglado método `str` del modelo `Vote`
+
+[33mcommit fbacc43442c86b1df376e158e0f694b3a64b78db[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Sat Feb 24 09:33:17 2018 +0100
+
+    store: vistas de consulta y almacenamiento
+    
+    He creado el modelo básico para almacenar votos, relacionando un id de
+    votante con una votación y almacenando las dos componentes del voto
+    cifrado, a y b.
+    
+    Todas las consultas se puede hacer utilizando los filtros sobre
+    voting_id y voter_id, por lo que para ver si un votante ha votado se
+    puede consultar pasando los dos filtros y para obtener el listado de
+    votos de una votación se puede filtrar sólo por el voting_id.
+    
+    See #2
+
+[33mcommit 2a1daad4cd7c86a88922b54a44d09c0db22dfdc5[m
+Merge: 9026079 e974a2f
+Author: Victor Ramirez de la Corte <virako.9@gmail.com>
+Date:   Sun Feb 25 19:39:22 2018 +0100
+
+    Merge pull request #13 from wadobo/voting
+    
+    Voting
+
+[33mcommit e974a2f0d91d1141e728522d3b7057c9f7685830[m
+Merge: 085aa3f 9026079
+Author: Victor Ramirez <virako@wadobo.com>
+Date:   Sun Feb 25 19:21:18 2018 +0100
+
+    Merge branch 'master' into voting
+
+[33mcommit 90260799c5e0153d7e750554fdcde7a79c485d66[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Feb 19 14:12:02 2018 +0100
+
+    mixnet: Vista para descifrar
+    
+    Este parche añade la vista para descfirar a la API de mixnet. Esto
+    funciona de manera similar al mezclado (shuffle), encadenando las
+    llamadas a las siguientes autoridades is es que hay más de una.
+    
+    También he añadido un test *completo* de creación/mezcla/descifrado para
+    dos autoridades de mentira. No podemos usar la API real porque cada
+    autoridad debe llamar a la siguiente y en los tests no es fácil tener
+    varias instancias, pero podemos falsear esto creando *dos* votaciones en
+    la base de datos de test y usar esto como si tuvieramos dos autoridades
+    reales.
+
+[33mcommit fd7a6150d82408c41a292b4edafa4c0208de7424[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Feb 19 13:27:17 2018 +0100
+
+    mixnet: Añadidos algunos tests unitarios
+
+[33mcommit 39942a2f2cb378cd7113ac150050ea806cdf208f[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Sat Feb 17 00:41:59 2018 +0100
+
+    mixnet: api de mezclado
+    
+    Llamada API para el mezclado de votos y recifrado en la red de
+    autoridades Mixnet
+
+[33mcommit b635445d692f77253e164d7846ec559889105aa6[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 16 17:31:55 2018 +0100
+
+    mixnet: Corregido script de prueba de genkey
+
+[33mcommit c7c4544760933105995e75fb420ccab13c5f5f9a[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 16 17:17:44 2018 +0100
+
+    mixnet: Corregido error, votación es voting, no vote
+
+[33mcommit 85f69edccb29b1f5335345fc0a35e8e36bf8045b[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 16 14:45:55 2018 +0100
+
+    mixnet: Generación de clave compartida
+    
+    Implementación inicial de la generación de clave compartida y
+    almacenamiento en modelos django de una mixnet.
+
+[33mcommit 085aa3fb508deb01cd9f09edbf1573d68ae0104f[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 23 13:29:11 2018 +0100
+
+    voting: Acción para comenzar/terminar una votación
+    
+    He añadido dos acciones una para comenzar la votación, que creará una
+    mixnet para conseguir la clave pública de cifrado y otra para terminar
+    la votación.
+    
+    En la acción de terminar la votación se puede añadir el mezclado y
+    descifrado de votos cuando tengamos implementado el almacenamiento.
+    
+    see #10
+
+[33mcommit 94dbfa1502b7d6d59af4ae9ebf395dae688021aa[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 23 12:47:44 2018 +0100
+
+    voting: Modelo de votación y formluario de admin
+    
+    Modelo básico de votación con una sóla pregunta. Los números de las
+    opciones se autogeneran a partir del 2, porque el 1 no se puede cifrar
+    bien con el algoritmo de cifrado.
+    
+    see #10
+
+[33mcommit 8bee3d504f8ba0b914eb39cd596a91f502681dac[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Feb 19 14:12:02 2018 +0100
+
+    mixnet: Vista para descifrar
+    
+    Este parche añade la vista para descfirar a la API de mixnet. Esto
+    funciona de manera similar al mezclado (shuffle), encadenando las
+    llamadas a las siguientes autoridades is es que hay más de una.
+    
+    También he añadido un test *completo* de creación/mezcla/descifrado para
+    dos autoridades de mentira. No podemos usar la API real porque cada
+    autoridad debe llamar a la siguiente y en los tests no es fácil tener
+    varias instancias, pero podemos falsear esto creando *dos* votaciones en
+    la base de datos de test y usar esto como si tuvieramos dos autoridades
+    reales.
+
+[33mcommit 43947834fd675ce15edc6a1547a27a9d7cd51b4b[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Mon Feb 19 13:27:17 2018 +0100
+
+    mixnet: Añadidos algunos tests unitarios
+
+[33mcommit 0bda962939863dcca4bc8ef6913ebad582603a24[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Sat Feb 17 00:41:59 2018 +0100
+
+    mixnet: api de mezclado
+    
+    Llamada API para el mezclado de votos y recifrado en la red de
+    autoridades Mixnet
+
+[33mcommit 398e2646a9407460a0b9e378fcd593357abbd7ac[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 16 17:31:55 2018 +0100
+
+    mixnet: Corregido script de prueba de genkey
+
+[33mcommit 0382fdeed6eae1cc7264fb59ba3f66e29ec33869[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 16 17:17:44 2018 +0100
+
+    mixnet: Corregido error, votación es voting, no vote
+
+[33mcommit 6810e38563842ed887255c4c6ea10d0eee26366a[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Fri Feb 16 14:45:55 2018 +0100
+
+    mixnet: Generación de clave compartida
+    
+    Implementación inicial de la generación de clave compartida y
+    almacenamiento en modelos django de una mixnet.
+
+[33mcommit 80e8d6ab113abbb967c860d221f412c6daf69e32[m
+Merge: 50d09e5 a5ee375
+Author: danigm <danigm@wadobo.com>
+Date:   Fri Feb 16 11:09:25 2018 +0100
+
+    Merge pull request #11 from wadobo/docker
+    
+    Ficheros docker-compose y Dockerfile para despliegue
+
+[33mcommit a5ee375b13dfc6a56007409454900f63aeb4a577[m
+Author: Daniel García Moreno <danigm@wadobo.com>
+Date:   Sun Feb 11 00:37:45 2018 +0100
+
+    Ficheros docker-compose y Dockerfile para despliegue
+    
+    Este parche añade una carpeta, docker, con ficheros de configuración de
+    docker-compose, para poder desplegar la aplicación de forma rápida y
+    sencilla con contenedores docker.
+
+[33mcommit 50d09e5060123a572ded759066554432daebecea[m
+Merge: 39d28cd 6ae31b5
+Author: danigm <danigm@wadobo.com>
+Date:   Fri Dec 22 14:23:17 2017 +0100
+
+    Merge pull request #1 from wadobo/base
+    
+    Creado proyecto base con sus modulos.
