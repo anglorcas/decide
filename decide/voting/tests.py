@@ -31,6 +31,15 @@ class VotingTestCase(BaseTestCase):
 
     def tearDown(self):
         super().tearDown()
+        def test_to_string(self):
+            #Crea un objeto votacion
+            v = self.create_voting()
+            #Verifica que el nombre de la votacion es test voting
+            self.assertEquals(str(v),"test voting")
+            #Verifica que la descripcion de la pregunta sea test question
+            self.assertEquals(str(v.question),"test question")
+            #Verifica que la primera opcion es option1 (2)
+            self.assertEquals(str(v.question.options.all()[0]),"option 1 (2)")
 
     def encrypt_msg(self, msg, v, bits=settings.KEYBITS):
         pk = v.pub_key
@@ -113,6 +122,20 @@ class VotingTestCase(BaseTestCase):
 
         for q in v.postproc:
             self.assertEqual(tally.get(q["number"], 0), q["votes"])
+    def test_create_voting_API(self):
+        self.login()
+        data = {
+            'name': 'Example',
+            'desc': 'Description example',
+            'question': 'I want a ',
+            'question_opt': ['cat', 'dog', 'horse']
+        }
+
+        response = self.client.post('/voting/', data, format='json')
+        self.assertEqual(response.status_code, 201)
+
+        voting = Voting.objects.get(name='Example')
+        self.assertEqual(voting.desc, 'Description example')
 
     def test_create_voting_from_api(self):
         data = {'name': 'Example'}
@@ -138,7 +161,14 @@ class VotingTestCase(BaseTestCase):
 
         response = self.client.post('/voting/', data, format='json')
         self.assertEqual(response.status_code, 201)
-
+    
+    def test_update_voting_405(self):
+        v = self.create_voting()
+        data = {} #El campo action es requerido en la request
+        self.login()
+        response = self.client.post('/voting/{}/'.format(v.pk), data, format= 'json')
+        self.assertEquals(response.status_code, 405)
+        
     def test_update_voting(self):
         voting = self.create_voting()
 
@@ -216,7 +246,7 @@ class VotingTestCase(BaseTestCase):
         response = self.client.put('/voting/{}/'.format(voting.pk), data, format='json')
         self.assertEqual(response.status_code, 400)
         self.assertEqual(response.json(), 'Voting already tallied')
-
+        
 class LogInSuccessTests(StaticLiveServerTestCase):
 
     def setUp(self):
@@ -342,7 +372,8 @@ class QuestionsTests(StaticLiveServerTestCase):
         self.cleaner.find_element(By.NAME, "_save").click()
 
         self.assertTrue(self.cleaner.current_url == self.live_server_url+"/admin/voting/question/")
-
+        
+   
     def createCensusEmptyError(self):
         self.cleaner.get(self.live_server_url+"/admin/login/?next=/admin/")
         self.cleaner.set_window_size(1280, 720)
@@ -361,3 +392,25 @@ class QuestionsTests(StaticLiveServerTestCase):
 
         self.assertTrue(self.cleaner.find_element_by_xpath('/html/body/div/div[3]/div/div[1]/div/form/div/p').text == 'Please correct the errors below.')
         self.assertTrue(self.cleaner.current_url == self.live_server_url+"/admin/voting/question/add/")
+
+class VotingModelTestCase(BaseTestCase):
+    def setUp(self):
+        q = Question(desc='Descripcion')
+        q.save()
+        
+        opt1 = QuestionOption(question=q, option='opcion 1')
+        opt1.save()
+        opt1 = QuestionOption(question=q, option='opcion 2')
+        opt1.save()
+
+        self.v = Voting(name='Votacion', question=q)
+        self.v.save()
+        super().setUp()
+
+    def tearDown(self):
+        super().tearDown()
+        self.v = None
+
+    def testExist(self):
+        v=Voting.objects.get(name='Votacion')
+        self.assertEquals(v.question.options.all()[0].option, "opcion 1")
