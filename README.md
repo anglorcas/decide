@@ -1,4 +1,12 @@
-[![Build Status](https://travis-ci.com/wadobo/decide.svg?branch=master)](https://travis-ci.com/wadobo/decide) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a6e89e141b14761a19288a6b28db474)](https://www.codacy.com/gh/decide-update-4-1/decide-update-4.1/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=decide-update-4-1/decide-update-4.1&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/6a6e89e141b14761a19288a6b28db474)](https://www.codacy.com/gh/decide-update-4-1/decide-update-4.1/dashboard?utm_source=github.com&utm_medium=referral&utm_content=decide-update-4-1/decide-update-4.1&utm_campaign=Badge_Coverage)
+Codacy Badges
+=====================================
+Code Quality: [![Codacy Badge](https://app.codacy.com/project/badge/Grade/85742780677b4c848e32facf05442643)](https://app.codacy.com/gh/anglorcas/decide/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+Coverage: [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/85742780677b4c848e32facf05442643)](https://app.codacy.com/gh/anglorcas/decide/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+
+Workflow Badges
+=====================================
+Master: [![Python application](https://github.com/anglorcas/decide/actions/workflows/django.yml/badge.svg?branch=master)](https://github.com/anglorcas/decide/actions/workflows/django.yml)
+Develop: [![Python application](https://github.com/anglorcas/decide/actions/workflows/django.yml/badge.svg?branch=develop)](https://github.com/anglorcas/decide/actions/workflows/django.yml)
 
 Plataforma voto electrónico educativa
 =====================================
